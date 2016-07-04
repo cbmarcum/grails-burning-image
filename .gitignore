@@ -19,5 +19,8 @@ stacktrace.log
 /target-eclipse/
 .classpath
 .project
-
+build/
+.gradle
+.idea/
+*.iml
 *.sha1
